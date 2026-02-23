@@ -9,6 +9,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0E75B6&center=true&vCenter=true&lines=Full+Stack+Developer;Python+Learner;Tech+Enthusiast;Always+Learning+New+Things" />
 </p>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eshaka22&label=Profile%20views&color=0e75b6&style=flat" alt="eshaka22" /> </p>
+
 ---
 
 - 🌱 I’m currently learning **Python**
